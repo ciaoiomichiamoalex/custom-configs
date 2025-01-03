@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"auto_upgrade": true,
+	"install_missing": true,
+	"remove_orphaned": true,
+
+	"in_process_packages": [],
+	"installed_packages": [
+		"A File Icon",
+		"Advanced CSV",
+		"Origami",
+		"Package Control",
+		"rainbow_csv",
+		"Terminus",
+		"WinMerge"
+	]
+}
